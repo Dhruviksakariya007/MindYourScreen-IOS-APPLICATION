@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>312052775951-5od7mpv65pigdut8k4hnqg55br35b06i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.312052775951-5od7mpv65pigdut8k4hnqg55br35b06i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyANElvu0F7UtNgVaHmKdpq7ghn7CQBs-Y8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>312052775951</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dhruvik.MindYourScreen</string>
+	<key>PROJECT_ID</key>
+	<string>mind-your-screen</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mind-your-screen.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:312052775951:ios:57a88686f542306deb377a</string>
+</dict>
+</plist>
